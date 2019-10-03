@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Fedobe_Erostheme",
+    "name": "OpenMageModuleFostering\/Fedobe_Erostheme",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Fedobe Eros free theme for Magento",
     "authors": [
-    {
-        "name": "Fedobe Solutions Pvt. Ltd",
-        "email": "mail@fedobe.com"
-    }
-],
+        {
+            "name": "Fedobe Solutions Pvt. Ltd",
+            "email": "mail@fedobe.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
