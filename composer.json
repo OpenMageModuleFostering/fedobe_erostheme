@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Fedobe_Erostheme",
+    "name": "openmage-module-fostering\/fedobe_erostheme",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Fedobe Eros free theme for Magento",
     "authors": [
